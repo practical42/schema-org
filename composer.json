@@ -42,6 +42,7 @@
     },
     "scripts": {
         "test": "vendor/bin/phpunit",
+        "test-win": "vendor\\bin\\phpunit",
         "generate": "php ./generate.php generate"
     },
     "config": {
